@@ -1,0 +1,8 @@
+DEBUG:__main__:Debug
+INFO:__main__:Hello
+WARNING:__main__:Look out!
+[2024-09-04 13:57:09,154][DEBUG] Debug
+[2024-09-04 13:57:09,155][INFO] Hello
+[2024-09-04 13:57:09,156][WARNING] Look out!
+[2024-09-04 13:58:02,938][WARNING] Look out!
+[2024-09-04 13:59:51,027][CRITICAL] Time for a break!
