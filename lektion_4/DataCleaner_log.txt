@@ -1,7 +1,0 @@
-[2024-09-04 13:54:58,166][DEBUG] Debug
-[2024-09-04 13:54:58,170][INFO] Hello
-[2024-09-04 13:54:58,171][WARNING] Look out!
-[2024-09-04 14:22:37,908][ERROR] (ValueError("invalid literal for int() with base 10: '05!25'"), '2024-05!25')
-[2024-09-04 14:22:37,910][ERROR] Could not parse date 20240718
-[2024-09-04 14:30:49,981][ERROR] (ValueError("invalid literal for int() with base 10: '05!25'"), '2024-05!25')
-[2024-09-04 14:31:45,146][ERROR] (ValueError("invalid literal for int() with base 10: '05!25'"), '2024-05!25')
