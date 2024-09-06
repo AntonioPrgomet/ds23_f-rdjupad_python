@@ -1,0 +1,4 @@
+[2024-09-05 14:31:58,864][DEBUG] Debug
+[2024-09-05 14:31:58,865][INFO] Hello
+[2024-09-05 14:31:58,866][WARNING] Look out!
+[2024-09-05 14:33:48,466][CRITICAL] Containment breach imminent!
